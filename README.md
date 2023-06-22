@@ -1,2 +1,2 @@
 # Node.jswebserver
-Node.js webserver connected with MongoDB
+Node.js webserver you can use it by Postman
